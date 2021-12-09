@@ -1,0 +1,29 @@
+// style untuk tag body di html
+body {
+    font-family: "Assistant", sans-serif;
+}
+
+// .page-content {
+//     margin-top: 100px;
+// }
+
+footer {
+    margin-bottom: 15px;
+
+    p {
+        color: #135350;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 1.28;
+    }
+}
+
+// // styling pada class form-control
+.form-control {
+    background-color: #f0f2f1;
+}
+
+:root {
+    --pale-grey-98: rgba(249, 238, 240, 0.98);
+    --dust: #b1a069;
+}
